@@ -4,3 +4,6 @@
 [submodule "simpleAPI-UsingReact"]
 	path = simpleAPI-UsingReact
 	url = https://github.com/kadirn7/simpleAPI-UsingReact.git
+[submodule "Todo-toDoReact"]
+	path = Todo-toDoReact
+	url = https://github.com/kadirn7/Todo-toDoReact
